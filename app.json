@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "DevFeed",
+    "icon": "./src/images/devfeed_icon.png",
+    "version": "1.0.0",
+    "slug": "devfeed",
+    "sdkVersion": "22.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#1976D2"
+    },
+   "ios": {
+      "bundleIdentifier": "com.harrybanda.devfeed"
+    },
+    "android": {
+      "package": "com.harrybanda.devfeed"
+    }
+  }
+}
